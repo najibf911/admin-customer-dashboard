@@ -1,0 +1,56 @@
+[
+  {
+    "customerId": 90,
+    "purchaseId": "AB00103",
+    "name": "Nora Silvester",
+    "item": "Clothes",
+    "price": 13,
+    "currency": "USD",
+    "date": "2025-09-03"
+  },
+  {
+    "customerId": 90,
+    "purchaseId": "AB00102",
+    "name": "Nora Silvester",
+    "item": "Sun Glasses",
+    "price": 5,
+    "currency": "USD",
+    "date": "2025-09-03"
+  },
+  {
+    "customerId": 90,
+    "purchaseId": "AB00101",
+    "name": "Nora Silvester",
+    "item": "Necklace",
+    "price": 100,
+    "currency": "USD",
+    "date": "2025-09-03"
+  },
+  {
+    "customerId": 89,
+    "purchaseId": "AB00100",
+    "name": "John Pierce",
+    "item": "Parts Automotive Drawer",
+    "price": 300,
+    "currency": "USD",
+    "date": "2025-09-03"
+  },
+  {
+    "customerId": 89,
+    "purchaseId": "AB00099",
+    "name": "John Pierce",
+    "item": "Toolbox",
+    "price": 20,
+    "currency": "USD",
+    "date": "2025-09-03"
+  },
+  {
+    "customerId": 88,
+    "purchaseId": "AB00098",
+    "name": "Brad Diesel",
+    "item": "Locker",
+    "price": 159,
+    "currency": "USD",
+    "date": "2025-09-03"
+  }
+]
